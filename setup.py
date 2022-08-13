@@ -24,7 +24,7 @@ SOFTWARE.
 
 from setuptools import setup, find_packages
 
-setup(name='ghost',
+setup(name='ghost'),
       version='8.0.0',
       description=(
           'Ghost Framework is an Android post-exploitation framework that exploits the'
